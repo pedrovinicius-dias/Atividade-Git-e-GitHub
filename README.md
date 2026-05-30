@@ -1,17 +1,20 @@
-# atividade prática
- **Instituição:** INSTITUTO FEDERAL Ceará **Curso:** Bacharelado em Ciência da Computação **Disciplina:** Lógica de Programação **Professor:** Pedro Lucas L. Costa
+# Atividade Prática 💻
+ **Instituição:** IFCE Campus Iguatu  
+ **Curso:** Bacharelado em Ciência da Computação  
+ **Disciplina:** Lógica de Programação  
+ **Professor:** Pedro Lucas L. Costa
 
 ---
 
-## organização do trio 
+## Organização do Trio 🧏
 
-* **Aluno 01 Líder do Projeto:** Pedro Vinicius Dias Almeida
-* **Aluno 02 Responsável pelas Respostas:** Gilson Galdino da Silva Filho
-* **Aluno 03 Responsável pela Pesquisa:** José Kauan Alves de Lima
+* **Aluno 01 | Líder do Projeto:** Pedro Vinicius Dias Almeida
+* **Aluno 02 | Responsável pelas Respostas:** Gilson Galdino da Silva Filho
+* **Aluno 03 | Responsável pela Pesquisa:** José Kauan Alves de Lima
 
 ---
 
-## questões obrigatórias 
+## Questões Obrigatórias 📝
 
 > **instrução para o aluno 02:** Crie um arquivo separado na sua branch para responder as questões abaixo e adicionar as imagens. lembre-se de que a pasta img NÃO deve ser enviada ao GitHub (já ta no gitignore). após concluir, substitua este aviso por um link apontando para o seu arquivo `.md` com as respostas.
 
@@ -31,7 +34,7 @@
 
 ---
 
-## pesquisa
+## Pesquisa 📚
 
 > **instrução para o aluno 03:** realizar pesquisas e adicionar nos arquivos padroes-commits.md e padroes-branchs.md, utilizando 2 branches diferentes. após finalizar sua pesquisa e commitar nas respectivas branches, crie os links abaixo apontando para os seus arquivos.
 
