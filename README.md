@@ -16,7 +16,7 @@
 
 ## Questões Obrigatórias 📝
 
-> **instrução para o aluno 02:** Crie um arquivo separado na sua branch para responder as questões abaixo e adicionar as imagens. lembre-se de que a pasta img NÃO deve ser enviada ao GitHub (já ta no gitignore). após concluir, substitua este aviso por um link apontando para o seu arquivo `.md` com as respostas.
+respostas das 12 oerguntas a frente [Clique aqui para ver as respostas](./respostas.md)
 
 **Lista de Tarefas para o Aluno 02:**
 1. Explique o conceito de controle de versão distribuído e descreva como o Git implementa esse modelo. 
