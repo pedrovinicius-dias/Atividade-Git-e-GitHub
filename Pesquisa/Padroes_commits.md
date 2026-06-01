@@ -1,7 +1,5 @@
 # GIT + GITHUB CHEAT SHEET
 
-Este documento foi gerado com base na imagem de referência, contendo os principais comandos e padrões para o uso do Git e GitHub.
-
 ## BRANCH
 * `git branch new-branch`: Cria com o nome new-branch.
 * `git checkout -b new-branch`: Criar e mudar o código para o branch new-branch.
@@ -16,6 +14,7 @@ Este documento foi gerado com base na imagem de referência, contendo os princip
 * `git fetch origin`: Download de todas as branchs remotas.
 * `git checkout -b new-branch origin/new-branch`: Baixar um branch remoto para edição.
 * `git merge new-branch`: Realiza o merge entre os branchs, ou seja, junta o ramo na árvore principal.
+  ![Imagem branch](Atividade-Git-e-Github/Pesquisa/img/Branch.jpg)
 
 ## STASH
 * `git stash`: Cria um stash, salva temporariamente as modificações.
@@ -23,6 +22,7 @@ Este documento foi gerado com base na imagem de referência, contendo os princip
 * `git stash apply`: Volta ao último stash.
 * `git stash apply stash@{2}`: Volta ao stash com índice 2.
 * `git stash branch meu_branch`: Criar um branch a partir de um stash.
+  ![Imagem branch](Atividade-Git-e-Github/Pesquisa/img/Stash.jpg)
 
 ## GITHUB
 * `git --version`: Verifica a versão instalada.
@@ -31,11 +31,12 @@ Este documento foi gerado com base na imagem de referência, contendo os princip
 * `git remote add origin git@github.com:"Usuário_github"/"repositorio"`: Envie o arquivo ao repositório remoto.
 * `git remote -v`: Verifica os arquivos enviados.
 * `git remote add origin https://github.com/nome/repositorio.git`: Sincroniza o repositório local com o remoto.
+  ![Imagem branch](Atividade-Git-e-Github/Pesquisa/img/Github.jpg)
 
 ## INICIANDO UM REPOSITÓRIO
 * `git init`: Inicia um repositório local.
 * `git clone ssh://git@github.com/[username]/[repository-name].git`: Cria uma cópia do repositório local.
-
+![Imagem branch](Atividade-Git-e-Github/Pesquisa/img/Github.jpg)
 ## LOG
 * `git log`: Exibe histórico dos ultimos commits.
 * `git log -p -3`: Exibe histórico com diff dos ultimos 3 commits.
@@ -43,11 +44,12 @@ Este documento foi gerado com base na imagem de referência, contendo os princip
 * `git log --pretty=oneline`: Exibe histórico de commits com informações resumidas em uma linha.
 * `git log --diff-filter=M -- <caminho_do_arquivo>`: Exibe histórico de modificações de um arquivo.
 * `git log --author=usuario`: Exibir histórico de um determinado autor.
-
+![Imagem branch](Atividade-Git-e-Github/Pesquisa/img/Log.jpg)
 ## CHERRY-PICK
 * `git cherry-pick <commit-id>`: Copia as informações desse commit.
 * `git cherry-pick A^..B`: Copia todos os commits entre o commit A e o commit B, inclusive A e B.
 * `git cherry-pick A..B`: Copia todos os commits entre o commit A e o commit B, excluindo A.
+  ![Imagem branch](Atividade-Git-e-Github/Pesquisa/img/CherryPyck.jpg)
 
 ## ARQUIVOS (ADICIONAR, REMOVER E COMMIT)
 
@@ -72,3 +74,4 @@ Este documento foi gerado com base na imagem de referência, contendo os princip
 * `git status`: Estado dos arquivos/diretório.
 * `git commit --amend -m "Minha nova mensagem"`: Alterando mensagens de commit já realizado.
 * `git rebase -i HEAD~3`: Alterar últimos commits, modificando as mensagens.
+![Imagem branch](Atividade-Git-e-Github/Pesquisa/img/Arquivos.jpg)
