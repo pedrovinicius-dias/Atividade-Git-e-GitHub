@@ -73,4 +73,4 @@
 * `git status`: Estado dos arquivos/diretório.
 * `git commit --amend -m "Minha nova mensagem"`: Alterando mensagens de commit já realizado.
 * `git rebase -i HEAD~3`: Alterar últimos commits, modificando as mensagens.
-![Imagem branch](Atividade-Git-e-Github/Pesquisa/img/Arquivos.jpg)
+![Imagem branch](img/Arquivos.jpg)
