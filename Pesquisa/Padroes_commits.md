@@ -14,7 +14,7 @@
 * `git fetch origin`: Download de todas as branchs remotas.
 * `git checkout -b new-branch origin/new-branch`: Baixar um branch remoto para edição.
 * `git merge new-branch`: Realiza o merge entre os branchs, ou seja, junta o ramo na árvore principal.
-![Imagem branch](img/Branch.jpg)
+<img width="290" height="422" alt="Image" src="https://github.com/user-attachments/assets/5086cc16-2ad7-4775-a3ac-5250a12e2afa" />
 
 ## STASH
 * `git stash`: Cria um stash, salva temporariamente as modificações.
@@ -22,7 +22,7 @@
 * `git stash apply`: Volta ao último stash.
 * `git stash apply stash@{2}`: Volta ao stash com índice 2.
 * `git stash branch meu_branch`: Criar um branch a partir de um stash.
-![Imagem branch](img/Stash.jpg)
+<img width="288" height="178" alt="Image" src="https://github.com/user-attachments/assets/f0f6c713-0b82-4e03-9a47-10fb2ab98d2d" />
 
 ## GITHUB
 * `git --version`: Verifica a versão instalada.
@@ -35,7 +35,7 @@
 ## INICIANDO UM REPOSITÓRIO
 * `git init`: Inicia um repositório local.
 * `git clone ssh://git@github.com/[username]/[repository-name].git`: Cria uma cópia do repositório local.
-![Imagem branch](img/Github.jpg)
+<img width="290" height="315" alt="Image" src="https://github.com/user-attachments/assets/a72095cc-7544-40fd-91cb-e782cac0b4aa" />
 ## LOG
 * `git log`: Exibe histórico dos ultimos commits.
 * `git log -p -3`: Exibe histórico com diff dos ultimos 3 commits.
@@ -43,12 +43,12 @@
 * `git log --pretty=oneline`: Exibe histórico de commits com informações resumidas em uma linha.
 * `git log --diff-filter=M -- <caminho_do_arquivo>`: Exibe histórico de modificações de um arquivo.
 * `git log --author=usuario`: Exibir histórico de um determinado autor.
-![Imagem branch](img/Log.jpg)
+<img width="274" height="195" alt="Image" src="https://github.com/user-attachments/assets/5ae930a0-ec4b-4a6b-b708-e7cd302c4b5e" />
 ## CHERRY-PICK
 * `git cherry-pick <commit-id>`: Copia as informações desse commit.
 * `git cherry-pick A^..B`: Copia todos os commits entre o commit A e o commit B, inclusive A e B.
 * `git cherry-pick A..B`: Copia todos os commits entre o commit A e o commit B, excluindo A.
-![Imagem branch](img/CherryPyck.jpg)
+<img width="274" height="152" alt="Image" src="https://github.com/user-attachments/assets/38bd9a7d-02a4-4c62-82e2-55b20b2509b8" />
 
 ## ARQUIVOS (ADICIONAR, REMOVER E COMMIT)
 
@@ -73,4 +73,4 @@
 * `git status`: Estado dos arquivos/diretório.
 * `git commit --amend -m "Minha nova mensagem"`: Alterando mensagens de commit já realizado.
 * `git rebase -i HEAD~3`: Alterar últimos commits, modificando as mensagens.
-![Imagem branch](img/Arquivos.jpg)
+<img width="228" height="370" alt="Image" src="https://github.com/user-attachments/assets/1a03a21d-5528-4484-b607-33d299d1dd34" />
