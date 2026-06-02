@@ -18,7 +18,7 @@
 
 respostas das 12 oerguntas a frente [Clique aqui para ver as respostas](./Respostas/respostas.md)
 
-**Lista de Tarefas para o Aluno 02:**
+**Lista de Perguntas:**
 1. Explique o conceito de controle de versão distribuído e descreva como o Git implementa esse modelo. 
 2. Diferencie Git e GitHub, destacando suas responsabilidades dentro do processo de desenvolvimento de software. 
 3. Explique o funcionamento interno de um commit no Git e sua importância para o histórico do projeto. 
