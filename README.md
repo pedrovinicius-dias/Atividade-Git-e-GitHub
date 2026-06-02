@@ -38,5 +38,5 @@ respostas das 12 oerguntas a frente [Clique aqui para ver as respostas](./respos
 
 > **instrução para o aluno 03:** realizar pesquisas e adicionar nos arquivos padroes-commits.md e padroes-branchs.md, utilizando 2 branches diferentes. após finalizar sua pesquisa e commitar nas respectivas branches, crie os links abaixo apontando para os seus arquivos.
 
-* **Padrões de commits:** [Aluno 03, substitua este texto pelo link para o arquivo `padroes-commits.md`]
-* **Padrões de nomenclatura de branches:** [Aluno 03, substitua este texto pelo link para o arquivo `padroes-branchs.md`]
+* **Padrões de commits:** https://github.com/pedrovinicius-dias/Atividade-Git-e-GitHub/blob/padroes-commits/Pesquisa/Padroes_commits.md
+* **Padrões de nomenclatura de branches:** https://github.com/pedrovinicius-dias/Atividade-Git-e-GitHub/blob/Nomenclaturas-branch/Pesquisa-Branches/padroes_nomenclatura_branches.md
