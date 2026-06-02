@@ -16,7 +16,7 @@
 
 ## Questões Obrigatórias 📝
 
-respostas das 12 oerguntas a frente [Clique aqui para ver as respostas](./respostas/respostas.md)
+respostas das 12 oerguntas a frente [Clique aqui para ver as respostas](./Respostas/respostas.md)
 
 **Lista de Tarefas para o Aluno 02:**
 1. Explique o conceito de controle de versão distribuído e descreva como o Git implementa esse modelo. 
