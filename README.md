@@ -16,7 +16,7 @@
 
 ## Questões Obrigatórias 📝
 
-respostas das 12 oerguntas a frente [Clique aqui para ver as respostas](./respostas/respostas.md)
+Respostas das 12 perguntas a frente [Clique aqui para ver as respostas](./respostas/respostas.md)
 
 **Lista de Perguntas:**
 1. Explique o conceito de controle de versão distribuído e descreva como o Git implementa esse modelo. 
@@ -36,7 +36,6 @@ respostas das 12 oerguntas a frente [Clique aqui para ver as respostas](./respos
 
 ## Pesquisa 📚
 
-> **instrução para o aluno 03:** realizar pesquisas e adicionar nos arquivos padroes-commits.md e padroes-branchs.md, utilizando 2 branches diferentes. após finalizar sua pesquisa e commitar nas respectivas branches, crie os links abaixo apontando para os seus arquivos.
 
-* **Padrões de commits:** https://github.com/pedrovinicius-dias/Atividade-Git-e-GitHub/blob/padroes-commits/Pesquisa/Padroes_commits.md
-* **Padrões de nomenclatura de branches:** https://github.com/pedrovinicius-dias/Atividade-Git-e-GitHub/blob/Nomenclaturas-branch/Pesquisa-Branches/padroes_nomenclatura_branches.md
+* **Padrões de commits:** 👉 [Pesquisa sobre padrões de commit](./Pesquisa/Padroes_commits.md)
+* **Padrões de nomenclatura de branches:** 👉 [Pesquisa sobre nomenclatura de branches](./Pesquisa-Branches/padroes_nomenclatura_branches)
