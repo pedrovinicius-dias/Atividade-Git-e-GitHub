@@ -38,4 +38,4 @@ Respostas das 12 perguntas a frente 👉 [Clique aqui para ver as respostas](./r
 
 
 * **Padrões de commits:** 👉 [Pesquisa sobre padrões de commit](./Pesquisa/Padroes_commits.md)
-* **Padrões de nomenclatura de branches:** 👉 [Pesquisa sobre nomenclatura de branches](./Pesquisa-Branches/padroes_nomenclatura_branches)
+* **Padrões de nomenclatura de branches:** 👉 [Pesquisa sobre nomenclatura de branches](./Pesquisa-Branches/padroes_nomenclatura_branches.md)
