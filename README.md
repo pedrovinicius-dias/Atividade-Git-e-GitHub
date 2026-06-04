@@ -16,7 +16,7 @@
 
 ## Questões Obrigatórias 📝
 
-Respostas das 12 perguntas a frente [Clique aqui para ver as respostas](./respostas/respostas.md)
+Respostas das 12 perguntas a frente 👉 [Clique aqui para ver as respostas](./respostas/respostas.md)
 
 **Lista de Perguntas:**
 1. Explique o conceito de controle de versão distribuído e descreva como o Git implementa esse modelo. 
